@@ -1,0 +1,7 @@
+2D Arena fighter
+
+Todo:
+Abstracted render interface (canvas or webgl?)
+Networking (interpolated movement of other players, extrapolated local player, websockets)
+2D physics (side scroller)
+Tile map
